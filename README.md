@@ -1,21 +1,17 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anil%20Bishnoi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%7C%20Fraud%20Detection%20%7C%20Market%20Risk&descAlignY=58&descSize=18" width="100%" />
-
-<!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/ianilbishnoi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+that+catches+fraud;Python+%7C+Machine+Learning+%7C+Data;Turning+data+into+decisions;Always+learning%2C+always+shipping" alt="Typing SVG" />
-  </a>
+  <img src="./assets/hud-header.svg" alt="Anil Bishnoi - Building intelligent systems" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ianilbishnoi&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/ianilbishnoi?style=flat&logo=github&color=blue" />
+  <img src="https://img.shields.io/badge/Python-0a2540?style=for-the-badge&logo=python&logoColor=00e5ff" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0a2540?style=for-the-badge&logo=scikitlearn&logoColor=00e5ff" />
+  <img src="https://img.shields.io/badge/Fraud%20Detection-0a2540?style=for-the-badge&logoColor=00e5ff" />
+  <img src="https://komarev.com/ghpvc/?username=ianilbishnoi&label=Visitors&color=0a2540&labelColor=05080f&style=for-the-badge" />
 </p>
 
 ---
 
-## 👋 About Me
+## 🧠 About Me
 
 ```python
 class Anil:
@@ -27,24 +23,25 @@ class Anil:
         self.open_to = ["Collaborations", "Internships", "Open Source"]
 ```
 
-- 🔭 Working on **financial fraud detection** and **AI market-risk prediction**
-- 🌱 Exploring **probabilistic and causal reasoning** (pgmpy)
-- 💬 Ask me about machine learning, Python, or fraud analytics
-- 📫 Reach me: *add your LinkedIn / email here*
+📫 **Contact:** [Anilkbishnoi07@gmail.com](mailto:Anilkbishnoi07@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,js,react,git,github,vscode,linux,html,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,js,react,git,github,vscode,linux,html,css&perline=10&theme=dark" />
 </p>
 
-**ML / Data:** `scikit-learn` · `pandas` · `NumPy` · `Matplotlib` · `Jupyter` · `pgmpy`
+<p align="center"><b>ML / Data:</b> scikit-learn · pandas · NumPy · Matplotlib · Jupyter · pgmpy</p>
 
 ---
 
-## 🚀 Featured Projects
+## 📡 Active Systems
+
+<p align="center">
+  <img src="./assets/status.svg" alt="Project status panel" width="100%" />
+</p>
 
 | Project | What it does |
 |---|---|
@@ -53,31 +50,12 @@ class Anil:
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ianilbishnoi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianilbishnoi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ianilbishnoi&background=05080F&ring=00E5FF&fire=2979FF&currStreakNum=E6FBFF&sideNums=E6FBFF&currStreakLabel=00E5FF&sideLabels=4DD0E1&dates=7DF3FF&stroke=0F4C6B&border=0F4C6B&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ianilbishnoi&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
