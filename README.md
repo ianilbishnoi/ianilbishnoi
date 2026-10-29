@@ -7,6 +7,8 @@
   &nbsp; ◈ &nbsp;
   <a href="#-stack">STACK</a>
   &nbsp; ◈ &nbsp;
+  <a href="#-currently-learning">LEARNING</a>
+  &nbsp; ◈ &nbsp;
   <a href="#-activity">ACTIVITY</a>
   &nbsp; ◈ &nbsp;
   <a href="#contact">CONTACT</a>
@@ -84,7 +86,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=ianilbishnoi&background=05080F&ring=00E5FF&fire=2979FF&currStreakNum=E6FBFF&sideNums=E6FBFF&currStreakLabel=00E5FF&sideLabels=4DD0E1&dates=7DF3FF&stroke=0F4C6B&border=0F4C6B&hide_border=false"
+    src="https://streak-stats.demolab.com/?user=ianilbishnoi&background=0D1117&ring=39D353&fire=39D353&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E&stroke=30363D&border=30363D&hide_border=false"
     alt="GitHub contribution streak"
     width="90%"
   />
@@ -92,7 +94,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ianilbishnoi&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=2979FF&text_color=E6FBFF"
+    src="https://github-readme-stats.vercel.app/api?username=ianilbishnoi&show_icons=true&theme=github_dark&hide_border=true"
     alt="GitHub statistics"
     width="90%"
   />
@@ -122,11 +124,11 @@
 
 <p align="center">
   <a href="mailto:Anilkbishnoi07@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=05080F" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-39D353?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/ianilbishnoi">
-    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=E6FBFF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
 </p>
 
