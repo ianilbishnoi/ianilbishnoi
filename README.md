@@ -76,28 +76,10 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ianilbishnoi&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub statistics"
-    width="90%"
+    src="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
   />
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
 </p>
 
 ---
