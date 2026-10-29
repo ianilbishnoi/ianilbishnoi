@@ -7,8 +7,6 @@
   &nbsp; ◈ &nbsp;
   <a href="#-stack">STACK</a>
   &nbsp; ◈ &nbsp;
-  <a href="#-currently-learning">LEARNING</a>
-  &nbsp; ◈ &nbsp;
   <a href="#-activity">ACTIVITY</a>
   &nbsp; ◈ &nbsp;
   <a href="#contact">CONTACT</a>
@@ -27,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:Anilkbishnoi07@gmail.com">✉️ Contact me</a>
+  <a href="mailto:Anilkbishnoi07@gmail.com">✉️ Email</a>
   &nbsp; ◈ &nbsp;
   <a href="https://github.com/ianilbishnoi">⌘ GitHub</a>
 </p>
@@ -38,24 +36,24 @@
 
 <p align="center">
   <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" alt="Python" />
   </a>
   &nbsp;
   <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" alt="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="45" alt="TypeScript" />
   </a>
   &nbsp;
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" alt="Git" />
   </a>
   &nbsp;
   <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45" alt="Linux" />
   </a>
 </p>
 
 <p align="center">
-  <sub>TOOLS I USE • TECHNOLOGIES I'M WORKING WITH</sub>
+  <sub>TOOLS I USE ◈ TECHNOLOGIES I'M WORKING WITH</sub>
 </p>
 
 ---
@@ -101,13 +99,21 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake-dark.svg">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake.svg"
+    />
     <img
-      src="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake-dark.svg"
       alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake.svg"
       width="100%"
     />
-  </a>
+  </picture>
 </p>
 
 ---
