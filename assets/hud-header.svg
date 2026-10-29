@@ -81,7 +81,7 @@
 
   <!-- typing lines -->
   <g font-family="'Courier New',Consolas,monospace" font-size="22" fill="#7df3ff">
-    <text x="362" y="206" clip-path="url(#t1)">&gt; Learning and building AI</text>
+    <text x="362" y="206" clip-path="url(#t1)">&gt; Training models. Training myself.</text>
     <text x="362" y="206" clip-path="url(#t2)">&gt; Python. Data. Models. Ship it.</text>
     <text x="362" y="206" clip-path="url(#t3)">&gt; Turning data into decisions</text>
   </g>
