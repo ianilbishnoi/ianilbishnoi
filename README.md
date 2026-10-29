@@ -77,7 +77,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
+    alt="Cyan contribution snake animation"
     width="100%"
   />
 </p>
@@ -88,10 +88,10 @@
 
 <p align="center">
   <a href="mailto:Anilkbishnoi07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-39D353?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=05080F" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/ianilbishnoi">
-    <img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-151B2B?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" />
   </a>
 </p>
