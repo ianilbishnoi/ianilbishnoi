@@ -4,14 +4,9 @@
 
 ## 🧠 About Me
 
-```
-> booting anil.exe ...
-> status ......... online
-> mode ........... figuring it out
-> building ....... AI systems
-> next drop ...... loading
-> open to ........ collabs, internships, open source
-```
+<p align="center">
+  <img src="./assets/about.svg" alt="About Anil: online, figuring it out, building AI systems, open to collabs, internships and open source" width="100%" />
+</p>
 
 📫 [Anilkbishnoi07@gmail.com](mailto:Anilkbishnoi07@gmail.com)
 
@@ -28,5 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <a href="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/ianilbishnoi/ianilbishnoi/output/github-contribution-grid-snake-dark.svg?v=2" alt="Contribution snake" />
+  </a>
 </p>
