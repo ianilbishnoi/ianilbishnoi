@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0a2540?style=for-the-badge&logo=python&logoColor=00e5ff" />
   <img src="https://img.shields.io/badge/Machine%20Learning-0a2540?style=for-the-badge&logo=scikitlearn&logoColor=00e5ff" />
-  <img src="https://img.shields.io/badge/Fraud%20Detection-0a2540?style=for-the-badge&logoColor=00e5ff" />
   <img src="https://komarev.com/ghpvc/?username=ianilbishnoi&label=Visitors&color=0a2540&labelColor=05080f&style=for-the-badge" />
 </p>
 
@@ -13,15 +12,14 @@
 
 ## 🧠 About Me
 
-```python
+
 class Anil:
     def __init__(self):
-        self.role = "ML Developer"
-        self.focus = ["Fraud Detection", "Market Risk Prediction", "Causal & Probabilistic AI"]
-        self.languages = ["Python", "TypeScript"]
-        self.currently = "Building ML models that solve real problems"
+        self.role = "Developer in the making"
+        self.learning = ["Python", "Machine Learning", "Data"]
+        self.currently = "Learning, building, shipping"
         self.open_to = ["Collaborations", "Internships", "Open Source"]
-```
+
 
 📫 **Contact:** [Anilkbishnoi07@gmail.com](mailto:Anilkbishnoi07@gmail.com)
 
@@ -32,21 +30,6 @@ class Anil:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,js,react,git,github,vscode,linux,html,css&perline=10&theme=dark" />
 </p>
-
-<p align="center"><b>ML / Data:</b> scikit-learn · pandas · NumPy · Matplotlib · Jupyter · pgmpy</p>
-
----
-
-## 📡 Active Systems
-
-<p align="center">
-  <img src="./assets/status.svg" alt="Project status panel" width="100%" />
-</p>
-
-| Project | What it does |
-|---|---|
-| [**financial-fraud-detection-ml**](https://github.com/ianilbishnoi/financial-fraud-detection-ml) | AI-based fraud detection using machine learning |
-| [**ai-market-risk-predictor**](https://github.com/ianilbishnoi/ai-market-risk-predictor) | Predicts market risk with ML models |
 
 ---
 
